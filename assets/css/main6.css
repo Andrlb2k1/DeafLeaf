@@ -1,0 +1,486 @@
+@import url("https://fonts.googleapis.com/css?family=Inter:100,600,100italic,500,700|Inika:700");
+
+.hidden, .hidden * {
+	pointer-events: none;
+	visibility: hidden;
+}
+
+.body {
+	align-items: center;
+	background-color: #5ecdc454;
+	display: flex;
+	flex-direction: column;
+	gap: 11px;
+	height: 673px;
+	overflow: hidden;
+	width: 964px;
+}
+
+.div-button1 {
+	align-items: flex-start;
+	background-color: #4ecdc4a6;
+	cursor: pointer;
+	display: flex;
+	height: 43px;
+	padding: 7px 8px;
+	width: 96px;
+}
+
+.enviar {
+	letter-spacing: 0;
+	line-height: normal;
+	min-height: 28px;
+	white-space: nowrap;
+}
+
+.overlap-group2 {
+	height: 579px;
+	margin-top: -1px;
+	position: relative;
+	width: 966px;
+}
+
+.div2 {
+	align-items: flex-end;
+	display: flex;
+	height: 40px;
+	left: 1px;
+	padding: 1px 0;
+	position: absolute;
+	top: 85px;
+	width: 964px;
+}
+
+.body .div0-2 {
+	align-items: flex-start;
+	background-color: var(--tundora);
+	box-shadow: 0px 4px 4px #00000040;
+	display: flex;
+}
+
+t
+
+.div-container {
+	height: 36px;
+	position: relative;
+	width: 963px;
+}
+
+.div03 {
+	height: 36px;
+	left: 642px;
+	padding: 5.3px 86.3px;
+	position: absolute;
+	top: 0;
+	width: 321px;
+}
+
+.body .div03-2 {
+	align-items: flex-start;
+	border: 0.66px solid;
+	border-color: var(--log-cabin);
+	display: flex;
+}
+
+.ampliar-tela {
+	letter-spacing: 0;
+	line-height: normal;
+	margin-left: 1px;
+	min-height: 24px;
+	white-space: nowrap;
+}
+
+.div02 {
+	height: 36px;
+	left: 321px;
+	padding: 5.3px 80.3px;
+	position: absolute;
+	top: 0;
+	width: 321px;
+}
+
+.body .div02-2 {
+	align-items: flex-start;
+	border: 0.66px solid;
+	border-color: var(--log-cabin);
+	display: flex;
+}
+
+.leitor-de-tela {
+	letter-spacing: 0;
+	line-height: normal;
+	margin-left: 2px;
+	min-height: 24px;
+	white-space: nowrap;
+}
+
+.body .div01-2 {
+	align-items: flex-start;
+	border: 0.66px solid;
+	border-color: var(--log-cabin);
+	display: flex;
+}
+
+.div01 {
+	height: 36px;
+	left: 0;
+	padding: 5.3px 49.3px;
+	position: absolute;
+	top: 0;
+	width: 321px;
+}
+
+.acessivel-em-libras {
+	letter-spacing: 0;
+	line-height: normal;
+	margin-left: 2px;
+	min-height: 24px;
+	white-space: nowrap;
+}
+
+.head {
+	align-items: flex-start;
+	background-color: #1a535c75;
+	border: 1.5px solid;
+	border-color: #1a535c6e;
+	display: flex;
+	height: 86px;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 966px
+}
+
+.div0-1 {
+	margin-left: 11px;
+	width: 600px;
+}
+
+.div02-1 {
+	cursor: pointer;
+	height: 84px;
+	padding: 29.3px 34px;
+	width: 150px;
+}
+
+.novo-login {
+	letter-spacing: 0;
+	line-height: normal;
+	min-height: 24px;
+	width: 82px;
+}
+
+.div03-1 {
+	cursor: pointer;
+	height: 84px;
+	padding: 29.3px 10px;
+	width: 150px;
+}
+
+.criar-nova-conta {
+	letter-spacing: 0;
+	line-height: normal;
+	min-height: 24px;
+	width: 130px;
+}
+
+.div01-1 {
+	cursor: pointer;
+	height: 84px;
+	padding: 29.3px 16px;
+	width: 150px;
+}
+
+.configuraes {
+	letter-spacing: 0;
+	line-height: normal;
+	margin-left: 1px;
+	min-height: 24px;
+	width: 117px;
+}
+
+.div04 {
+	align-items: flex-start;
+	border: 0.66px solid;
+	border-color: var(--log-cabin);
+	display: flex;
+	height: 84px;
+	padding: 29.3px 59px;
+	width: 150px;
+}
+
+.sair {
+	letter-spacing: 0;
+	line-height: normal;
+	min-height: 24px;
+	width: 32px;
+}
+
+.logo-container {
+	height: 86px;
+	margin-top: -2px;
+	position: relative;
+	width: 300px;
+}
+
+.text-logo {
+	align-items: flex-start;
+	display: flex;
+	height: 70px;
+	left: 51px;
+	overflow: scroll;
+	padding: 6.3px 32.3px;
+	position: absolute;
+	top: 9px;
+	width: 249px;
+}
+
+.text-logo::-webkit-scrollbar {
+	display: none;
+	width: 0;
+}
+
+.deaf-leaf {
+	-webkit-text-stroke: 0.66px #797923e8;
+	color: #fafa18;
+	font-family: var(--font-family-italiana);
+	font-size: var(--font-size-x12);
+	font-weight: 400;
+	letter-spacing: 0;
+	line-height: normal;
+	min-height: 55px;
+	white-space: nowrap;
+	width: 183px
+}
+
+.leaf-logo-1 {
+	height: 86px;
+	left: 0;
+	object-fit: cover;
+	position: absolute;
+	top: 0;
+	width: 61px;
+}
+
+.ear-logo-1 {
+	height: 84px;
+	object-fit: cover;
+	width: 53px;
+}
+
+.div1 {
+	align-items: flex-start;
+	display: flex;
+	flex-direction: column;
+	height: 467px;
+	left: 31px;
+	padding: 6px 35px;
+	position: absolute;
+	top: 112px;
+	width: 904px;
+}
+
+.div11 {
+	align-items: flex-end;
+	align-self: center;
+	display: flex;
+	height: 70px;
+	margin-right: 2px;
+	margin-top: 33px;
+	padding: 19px 15px;
+	width: 684px;
+}
+
+.grupo-chatters-con {
+	letter-spacing: 0;
+	line-height: normal;
+	min-height: 30px;
+	white-space: nowrap;
+	width: 653px;
+}
+
+.div12 {
+	align-items: flex-end;
+	display: flex;
+	flex-direction: column;
+	gap: 27px;
+	height: 352px;
+	padding: 15px 0;
+	width: 833px;
+}
+
+.conversar-no-seu-grupo {
+	align-self: center;
+	color: var(--black);
+	font-family: var(--font-family-inika);
+	font-size: var(--font-size-x1);
+	font-weight: 700;
+	letter-spacing: 0;
+	line-height: normal;
+	margin-right: 1px;
+	min-height: 28px;
+	white-space: nowrap;
+	width: 272px;
+}
+
+.flex-row {
+	align-items: center;
+	display: flex;
+	min-width: 817px;
+}
+
+.flex-col {
+	align-items: flex-start;
+	display: flex;
+	flex-direction: column;
+	gap: 36px;
+	margin-left: 14px;
+	margin-top: 8px;
+	min-height: 234px;
+	width: 316px;
+}
+
+.flex-col-item {
+	letter-spacing: 0;
+	line-height: normal;
+	min-height: 18px;
+	white-space: nowrap;
+}
+
+.user-icon-container {
+	align-items: flex-start;
+	align-self: flex-end;
+	display: flex;
+	flex-direction: column;
+	gap: 15px;
+	min-height: 255px;
+	width: 39px;
+}
+
+.user-icon {
+	height: 39px;
+	object-fit: cover;
+	width: 39px;
+}
+
+.div-publish-text {
+	align-items: flex-start;
+	background-color: #fcfcfced;
+	display: flex;
+	height: 264px;
+	margin-left: 105px;
+	padding: 17px;
+	width: 343px;
+}
+
+.digite-aqui-sua-mensagem {
+	color: var(--black);
+	font-family: var(--font-family-inter);
+	font-size: var(--font-size-1);
+	font-style: italic;
+	font-weight: 100;
+	letter-spacing: 0;
+	line-height: normal;
+	min-height: 17px;
+	white-space: nowrap;
+}
+
+:root {
+	--black: rgba(0, 0, 0, 1);
+	--blue: rgba(29, 83, 249, 0.902);
+	--log-cabin: rgba(33, 33, 33, 0.4);
+	--tundora: rgba(68, 68, 68, 0.122);
+	--sonic-silver: rgba(119, 119, 119, 1);
+	--gray: rgba(144, 144, 144, 0.502);
+	--selago: rgba(240, 240, 251, 0.749);
+	--yellow: rgba(255, 255, 0, 1);
+	--white: rgba(255, 255, 255, 1);
+
+	--font-size-1: 15px;
+	--font-size-1: 22px;
+	--font-size-x1: 24px;
+	--font-size-xxxx1: 25px;
+	--font-size-xxxxx1: 27px;
+	--font-size-m3: 13px;
+	--font-size-s2: 18px;
+	--font-size-m2: 20px;
+	--font-size-12: 28px;
+	--font-size-xs2: 16px;
+	--font-size-x12: 50px;
+
+	--font-family-inika: "Inika";
+	--font-family-inter: "Inter";
+	--font-family-italiana: "Italiana";
+ }
+
+ .inter-semi-bold-white-16px {
+	color: var(--white);
+	font-family: var(--font-family-inter);
+	font-size: var(--font-size-xs2);
+	font-weight: 600;
+	font-style: normal;
+ }
+
+ .inter-semi-bold-black-13px {
+	color: var(--black);
+	font-family: var(--font-family-inter);
+	font-size: var(--font-size-m3);
+	font-weight: 600;
+	font-style: normal;
+ }
+
+ .inter-semi-bold-yellow-20px {
+	color: var(--yellow);
+	font-family: var(--font-family-inter);
+	font-size: var(--font-size-m2);
+	font-weight: 600;
+	font-style: normal;
+ }
+
+ .inter-bold-blue-20px {
+	color: var(--blue);
+	font-family: var(--font-family-inter);
+	font-size: var(--font-size-m2);
+	font-weight: 700;
+	font-style: normal;
+ }
+
+ .inter-bold-black-20px {
+	color: var(--black);
+	font-family: var(--font-family-inter);
+	font-size: var(--font-size-m2);
+	font-weight: 700;
+	font-style: normal;
+ }
+
+ .inter-semi-bold-black-18px {
+	color: var(--black);
+	font-family: var(--font-family-inter);
+	font-size: var(--font-size-s2);
+	font-weight: 600;
+	font-style: normal;
+ }
+
+ .inter-semi-bold-sonic-silver-13px {
+	color: var(--sonic-silver);
+	font-family: var(--font-family-inter);
+	font-size: var(--font-size-m3);
+	font-weight: 600;
+	font-style: normal;
+ }
+
+ .inter-bold-black-25px {
+	color: var(--black);
+	font-family: var(--font-family-inter);
+	font-size: var(--font-size-xxxx1);
+	font-weight: 700;
+	font-style: normal;
+ }
+
+ .inter-medium-black-25px {
+	color: var(--black);
+	font-family: var(--font-family-inter);
+	font-size: var(--font-size-xxxx1);
+	font-weight: 500;
+	font-style: normal;
+ }
